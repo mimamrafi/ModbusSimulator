@@ -1,0 +1,10 @@
+release/main.o
+release/custom_mainwindow.o
+release/custom_modbusclient.o
+release/custom_modbusserver.o
+release/custom_registermodel.o
+release/qrc_images.o
+release/moc_custom_mainwindow.o
+release/moc_custom_modbusclient.o
+release/moc_custom_modbusserver.o
+release/moc_custom_registermodel.o
