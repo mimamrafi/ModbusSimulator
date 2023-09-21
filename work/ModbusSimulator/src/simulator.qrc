@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/images">
-        <file>images/HDS.ico</file>
-        <file>images/HDS_Logo.png</file>
-    </qresource>
-</RCC>
